@@ -57,7 +57,7 @@ The following tool was used in this project:
 
 - [Tableau](https://www.tableau.com/)
 
-Made with :heart: by <a href="https://github.com/muskaan712" target="_blank">Muskaan Chopra</a>
+Made with :heart: by <a href="https://github.com/muskaan712" target="_blank">Gopal Mengi</a>
 
 &#xa0;
 
